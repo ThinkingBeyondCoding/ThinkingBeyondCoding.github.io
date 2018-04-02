@@ -1,0 +1,14 @@
+body {
+    width: 100%;
+    min-width: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
+
+footer {
+    height: 50px;
+}
